@@ -1,2 +1,1 @@
-pmcd - Peter
-yourName - YourName
+pmcd - Peter McDonald
